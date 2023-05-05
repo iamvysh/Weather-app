@@ -1,0 +1,24 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&display=swap');
+
+
+
+body{
+    background-image: url("kayra-sercan-v10lH6UUEGw-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Orbitron', sans-serif;
+    
+
+}
+
+   
+h1{
+  color: #feab03;
+}
+.common{
+  color: #040457;
+  font-size: large;
+    font-weight: 800;
+  
+}
